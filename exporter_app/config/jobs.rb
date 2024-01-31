@@ -25,7 +25,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
@@ -66,7 +66,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
@@ -107,7 +107,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
@@ -148,7 +148,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
@@ -189,7 +189,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
@@ -230,7 +230,7 @@
 
                      :generate_handles => false,
 
-#                     :xslt_transforms => ['config/transform.xslt'],
+                     :xslt_transforms => ['config/transform.xslt', 'config/trico-transform.xslt'],
 #                     :validation_schema => ['config/ead.xsd'],
 #                     :schematron_checks => ['config/schematron.sch'],
                    },
